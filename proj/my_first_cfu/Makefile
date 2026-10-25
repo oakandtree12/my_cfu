@@ -41,6 +41,6 @@ DEFINES += INCLUDE_MODEL_PDTI8
 
 # Uncomment this line to include the ASCII animated donut demo.
 DEFINES += DONUT_DEMO
-
+DEFINES += CONFIG_CPU_PERF_CSRS
 
 include ../proj.mk
